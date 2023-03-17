@@ -1,1 +1,2 @@
 # Brain-Seizure-Detection
+Seizure detection and prediction are crucial for individuals with epilepsy. Early detection and prediction of seizures can enable timely interventions and reduce the risk of serious injury or death. Machine learning algorithms such as Random Forest have shown great potential in predicting seizures and detecting abnormal brain activity. This project aims to explore the use of Random Forest in seizure detection and probability prediction.
